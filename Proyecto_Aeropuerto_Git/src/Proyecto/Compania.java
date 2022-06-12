@@ -37,10 +37,7 @@ public class Compania {
         return numVuelo;
     }
 
-    //Dependiendo del iterador que el usuario introduzca por parametro le devuelvo dicho vuelo   
-    public Vuelo getVuelo(int i) {
-        return listaVuelos[i];
-    }
+
 
     //Sobrecarga de métodos 
     public Vuelo getVuelo(String id) {
