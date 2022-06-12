@@ -3,7 +3,7 @@
 package Proyecto;
 /**
  * Clase pasajero del proyecto aeropuerto
- * @author Ruslan
+ * @author Ruslan Tejerina
  * @version  1.0 Ruslan
  
  */
