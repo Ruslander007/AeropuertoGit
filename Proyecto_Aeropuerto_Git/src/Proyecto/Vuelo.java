@@ -107,7 +107,7 @@ public class Vuelo {
     public Pasajero getPasajero(int i){
         return listaPasajeros[i]; //Mostrar un pasajero según el num. del indice del array.
     }
-    
+    //Falta por comentar este método get
     public Pasajero getPasajero(String pasaporte){
         boolean encontrado=false;
         int i=0;
